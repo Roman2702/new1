@@ -1,2 +1,3 @@
 # new1
-learning github
+lening github
+learning git
